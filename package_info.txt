@@ -1,0 +1,17 @@
+Package Information
+===================
+
+Package Name: test-package-v2
+Version: 2.0.0
+Author: Test Team
+License: MIT
+
+Dependencies:
+- python >= 3.8
+- node >= 14.0
+- npm >= 6.0
+
+Installation:
+npm install
+pip install -r requirements.txt
+

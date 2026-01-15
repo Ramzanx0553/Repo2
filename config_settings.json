@@ -1,0 +1,14 @@
+{
+  "app_name": "Test Application",
+  "version": "2.0",
+  "settings": {
+    "debug_mode": true,
+    "log_level": "info",
+    "max_retries": 3
+  },
+  "features": {
+    "sync_enabled": true,
+    "auto_update": false
+  }
+}
+

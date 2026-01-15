@@ -1,0 +1,16 @@
+# API Endpoints Configuration for Testing
+api:
+  version: "2.0"
+  base_url: "https://api.test.com/v2"
+  
+endpoints:
+  - name: "get_test_data"
+    method: "GET"
+    path: "/test/data"
+    description: "Retrieve test data"
+    
+  - name: "create_test_record"
+    method: "POST"
+    path: "/test/records"
+    description: "Create a new test record"
+
